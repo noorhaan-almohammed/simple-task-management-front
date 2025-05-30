@@ -1,27 +1,27 @@
-.login-wrapper {
+.login_wrapper {
   max-width: 400px;
   margin: 50px auto;
   padding: 20px;
 }
 
-.login-form {
+.login_form {
   background: #ffffff;
   padding: 25px;
   border-radius: 8px;
   box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
 }
 
-.form-title {
+.form_title {
   text-align: center;
   margin-bottom: 20px;
   color: #333;
 }
 
-.input-group {
+.input_group {
   margin-bottom: 15px;
 }
 
-.form-input {
+.form_input {
   width: 100%;
   padding: 12px;
   border: 1px solid #ddd;
@@ -29,12 +29,12 @@
   font-size: 16px;
 }
 
-.form-input:focus {
+.form_input:focus {
   outline: none;
   border-color: #4a90e2;
 }
 
-.login-button {
+.login_button {
   width: 100%;
   padding: 12px;
   background-color: #4a90e2;
@@ -46,26 +46,26 @@
   transition: background-color 0.3s;
 }
 
-.login-button:hover {
+.login_button:hover {
   background-color: #3a7bc8;
 }
 
-.signup-section {
+.signup_section {
   text-align: center;
   margin-top: 20px;
 }
 
-.signup-text {
+.signup_text {
   color: #666;
   margin-bottom: 8px;
 }
 
-.signup-link {
+.signup_link {
   color: #4a90e2;
   text-decoration: none;
   font-weight: 500;
 }
 
-.signup-link:hover {
+.signup_link:hover {
   text-decoration: underline;
 }
