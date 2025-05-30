@@ -21,7 +21,9 @@ Make sure the following tools are installed on your machine:
 
 ## Getting Started - Local Setup
 
-### Backend (Laravel API)
+---
+
+## Backend (Laravel API)
 
 Follow these steps to set up and run the Laravel backend:
 
@@ -71,16 +73,18 @@ php artisan serve
 
 ```
 
+---
 
-### Frontend (React)
-## 🛠 Technologies Used
+## Frontend (React)
+
+### 🛠 Technologies Used
 
 - **Vite**: For fast development and build  
 - **React.js**: For building the user interface  
 - **TypeScript**: For type safety and better developer experience  
 - **Pure CSS**: No external libraries like Bootstrap or Tailwind were used  
 
-## Setup Steps
+### Setup Steps
 
 ```bash
 git clone https://github.com/noorhaan-almohammed/simple-tsk-management-front.git
@@ -91,4 +95,3 @@ npm run dev
 
 ## Contribution
 Feel free to open issues or pull requests for improvements or bug fixes.
-
