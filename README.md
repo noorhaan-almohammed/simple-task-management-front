@@ -5,8 +5,6 @@ This is a full-stack task management application built with:
 - **Frontend:** React + TypeScript
 - **Backend:** Laravel (PHP 8.1+)
 
----
-
 ##  Requirements
 
 Make sure the following tools are installed on your machine:
@@ -21,7 +19,6 @@ Make sure the following tools are installed on your machine:
 
 ## Getting Started - Local Setup
 
----
 
 ## Backend (Laravel API)
 
@@ -73,6 +70,11 @@ php artisan serve
 
 ```
 
+By default, the backend API will be accessible at:
+```bash
+http://127.0.0.1:8001
+```
+
 ---
 
 ## Frontend (React)
@@ -91,6 +93,11 @@ git clone https://github.com/noorhaan-almohammed/simple-tsk-management-front.git
 cd simple-tsk-management-front
 npm install
 npm run dev
+```
+
+This will start the frontend at:
+```bash
+http://localhost:5173
 ```
 
 ## Contribution
